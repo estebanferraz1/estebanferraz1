@@ -1,4 +1,4 @@
-# About Me
+## [About Me](https://github.com/pandao/editor.md "Heading link")
 
 <div class="justificado">
   <p>Apasionado por el análisis de datos y la toma de decisiones estratégicas, con experiencia en el sector público y privado.</p>
@@ -31,7 +31,7 @@
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-# Social Media
+## [Social Media](https://github.com/pandao/editor.md "Heading link")
 
 <p align="center">
     <br/><br/><a href="https://www.linkedin.com/in/steban-ferraz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0A0A0B?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn Badge" /></a>
@@ -39,7 +39,7 @@
 <p/>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-# Skills
+## [Skills](https://github.com/pandao/editor.md "Heading link")
 
 ```mermaid
 graph TD;
@@ -67,14 +67,14 @@ graph TD;
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-# Tech Stack
+## [Tech Stack](https://github.com/pandao/editor.md "Heading link")
 <div align="center">  
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
 </div> 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-# GitHub Stats
+## [GitHub Stats](https://github.com/pandao/editor.md "Heading link")
 <div align="center">  
   
 ![](https://github-readme-stats.vercel.app/api?username=estebanferraz1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
@@ -83,7 +83,7 @@ graph TD;
 </div> 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-## Map
+## [Map](https://github.com/pandao/editor.md "Heading link")
 
  ```geojson
 {
@@ -113,7 +113,7 @@ graph TD;
  ```
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-## GitHub Trophies
+## [GitHub Trophies](https://github.com/pandao/editor.md "Heading link")
 <div align="center">  
  
 ![](https://github-profile-trophy.vercel.app/?username=estebanferraz1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
@@ -121,7 +121,7 @@ graph TD;
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-### Random Dev Quote
+### [Random Dev Quote](https://github.com/pandao/editor.md "Heading link")
 <div align="center">  
   
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -129,7 +129,7 @@ graph TD;
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
 
-### Top Contributed Repo
+### [Top Contributed Repo](https://github.com/pandao/editor.md "Heading link")
 <div align="center">  
   
 ![](https://github-contributor-stats.vercel.app/api?username=estebanferraz1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
