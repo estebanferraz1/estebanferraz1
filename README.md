@@ -1,3 +1,9 @@
+<div align="center">  
+  
+![esteban_ferraz_cientifico_datos](https://github.com/estebanferraz1/estebanferraz1/assets/125892411/70b09c86-359a-4779-8cf4-916d3b5c1130)
+</div> 
+
+
 ## [About Me](https://github.com/pandao/editor.md "Heading link")
 
 <div class="justificado">
@@ -39,6 +45,7 @@
 <p/>
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 ## [Skills](https://github.com/pandao/editor.md "Heading link")
 
 ```mermaid
@@ -70,19 +77,37 @@ graph TD;
 ## [Tech Stack](https://github.com/pandao/editor.md "Heading link")
 <div align="center">  
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)<br/> ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)<br/> ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) 
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Prezi](https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)
 </div> 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 ## [GitHub Stats](https://github.com/pandao/editor.md "Heading link")
 <div align="center">  
   
-![](https://github-readme-stats.vercel.app/api?username=estebanferraz1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=estebanferraz1&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=estebanferraz1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=estebanferraz1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false) ![](https://github-readme-streak-stats.herokuapp.com/?user=estebanferraz1&theme=tokyonight&hide_border=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=estebanferraz1&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 </div> 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+## [GitHub Trophies](https://github.com/pandao/editor.md "Heading link")
+<div align="center">  
+ 
+![](https://github-profile-trophy.vercel.app/?username=estebanferraz1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+</div> 
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+
+### [Top Contributed Repo](https://github.com/pandao/editor.md "Heading link")
+<div align="center">  
+  
+![](https://github-contributor-stats.vercel.app/api?username=estebanferraz1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+</div> 
+
+<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
+
 ## [Map](https://github.com/pandao/editor.md "Heading link")
 
  ```geojson
@@ -113,10 +138,15 @@ graph TD;
  ```
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-## [GitHub Trophies](https://github.com/pandao/editor.md "Heading link")
 <div align="center">  
- 
-![](https://github-profile-trophy.vercel.app/?username=estebanferraz1&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
+  
+[![](https://visitcount.itsvg.in/api?id=estebanferraz1&icon=0&color=0)](https://visitcount.itsvg.in)
+</div> 
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">  
+  
+<a href="http://s01.flagcounter.com/more/52r"><img src="https://s01.flagcounter.com/count/52r/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
 </div> 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
@@ -128,23 +158,3 @@ graph TD;
 </div> 
 
 <!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-
-### [Top Contributed Repo](https://github.com/pandao/editor.md "Heading link")
-<div align="center">  
-  
-![](https://github-contributor-stats.vercel.app/api?username=estebanferraz1&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-</div> 
-
----
-<div align="center">  
-  
-[![](https://visitcount.itsvg.in/api?id=estebanferraz1&icon=0&color=0)](https://visitcount.itsvg.in)
-</div> 
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--------------------------------------------------------------------------------------------------------------------------------------------------------->
-<div align="center">  
-  
-<a href="http://s01.flagcounter.com/more/52r"><img src="https://s01.flagcounter.com/count/52r/bg_0D1117/txt_FFFFFF/border_0D1117/columns_8/maxflags_20/viewers_0/labels_1/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
-</div> 
