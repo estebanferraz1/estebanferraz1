@@ -1,7 +1,8 @@
 <div align="center">  
-  
-![esteban_ferraz_cientifico_datos](https://github.com/estebanferraz1/estebanferraz1/assets/125892411/70b09c86-359a-4779-8cf4-916d3b5c1130)
+
+  ![rainbow](https://github.com/estebanferraz1/estebanferraz1/assets/125892411/f51ba03e-ec8c-49c5-9dae-70abae50bfca)
 </div> 
+
 
 
 ## [About Me](https://github.com/pandao/editor.md "Heading link")
