@@ -1,6 +1,6 @@
 <div align="center">  
 
-  ![rainbow](https://github.com/estebanferraz1/estebanferraz1/assets/125892411/f51ba03e-ec8c-49c5-9dae-70abae50bfca)
+ 
 </div> 
 
 
